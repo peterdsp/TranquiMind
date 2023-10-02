@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.6.4)
+  - CleanyModal (1.0.3)
+  - DTGradientButton (0.1.3)
+  - lottie-ios (3.5.0)
+  - MagicTimer (1.0.4)
+  - MKRingProgressView (2.3.0)
+  - Purchases (3.14.2):
+    - PurchasesCoreSwift (= 3.14.2)
+  - PurchasesCoreSwift (3.14.2)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - CleanyModal
+  - DTGradientButton
+  - lottie-ios
+  - MagicTimer
+  - MKRingProgressView
+  - Purchases
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CleanyModal
+    - DTGradientButton
+    - lottie-ios
+    - MagicTimer
+    - MKRingProgressView
+    - Purchases
+    - PurchasesCoreSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  CleanyModal: 5e5fece5b1de97b47ea091f6390ec2b16bfa2f20
+  DTGradientButton: 6f0f696cd433255d226c05e4ab047d991d13d4ef
+  lottie-ios: c55158d67d0629a260625cc2ded2052b829e3c3e
+  MagicTimer: e39ab4d63c759eed0cee34f521002f099bdcc472
+  MKRingProgressView: f534209b9a1edc0beb2ea613e6b953ea2195b565
+  Purchases: 5af37054554583f973b0ad0b9653e412bb8649db
+  PurchasesCoreSwift: 588d3702282fb96222d7d5e05acd84f37e50a1ce
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: 2ef0815a7a53ddaf4753be781006f7b071e22ae1
+
+COCOAPODS: 1.12.1

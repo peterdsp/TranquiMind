@@ -1,0 +1,10 @@
+${PODS_ROOT}/Target Support Files/Pods-TranquiMind/Pods-TranquiMind-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/CleanyModal/CleanyModal.framework
+${BUILT_PRODUCTS_DIR}/DTGradientButton/DTGradientButton.framework
+${BUILT_PRODUCTS_DIR}/MKRingProgressView/MKRingProgressView.framework
+${BUILT_PRODUCTS_DIR}/MagicTimer/MagicTimer.framework
+${BUILT_PRODUCTS_DIR}/Purchases/Purchases.framework
+${BUILT_PRODUCTS_DIR}/PurchasesCoreSwift/PurchasesCoreSwift.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework
+${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework
