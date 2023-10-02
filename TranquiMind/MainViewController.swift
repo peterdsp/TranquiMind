@@ -96,7 +96,8 @@ extension MainViewController: UICollectionViewDataSource {
                         print(e.localizedDescription)
                     }
                     if self.thesisMode {
-                        self.dismiss(animated: true, completion: nil)
+                        print("USER IS IN THESIS MODE")
+                        cell1.premium.isHidden = true
                     }
                     else {
                         if purchaserInfo?.entitlements["fullappaccess"]?.isActive == true {
@@ -124,7 +125,8 @@ extension MainViewController: UICollectionViewDataSource {
                     print(e.localizedDescription)
                 }
                 if self.thesisMode {
-                    self.dismiss(animated: true, completion: nil)
+                    print("USER IS IN THESIS MODE")
+                    cell2.premium.isHidden = true
                 }
                 else {
                     if purchaserInfo?.entitlements["fullappaccess"]?.isActive == true {
@@ -157,7 +159,9 @@ extension MainViewController: UICollectionViewDataSource {
                         print(e.localizedDescription)
                     }
                     if self.thesisMode {
-                        self.dismiss(animated: true, completion: nil)
+                        print("USER IS IN THESIS MODE")
+                        VideoName = self.cv1Images[indexPath!.item]
+                        self.performSegue(withIdentifier: "go_video", sender: self)
                     }
                     else {
                         if purchaserInfo?.entitlements["fullappaccess"]?.isActive == true {
@@ -185,7 +189,9 @@ extension MainViewController: UICollectionViewDataSource {
                         print(e.localizedDescription)
                     }
                     if self.thesisMode {
-                        self.dismiss(animated: true, completion: nil)
+                        print("USER IS IN THESIS MODE")
+                        PlayerIndex = indexPath!.item
+                        self.performSegue(withIdentifier: "go_player", sender: self)
                     }
                     else {
                         if purchaserInfo?.entitlements["fullappaccess"]?.isActive == true {

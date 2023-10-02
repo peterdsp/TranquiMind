@@ -7,17 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C09132C2ACAD65D0087BF9D /* v5.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913212ACAD65D0087BF9D /* v5.mp4 */; };
-		2C09132D2ACAD65D0087BF9D /* p5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913222ACAD65D0087BF9D /* p5.mp3 */; };
-		2C09132E2ACAD65D0087BF9D /* v3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913232ACAD65D0087BF9D /* v3.mp4 */; };
-		2C09132F2ACAD65D0087BF9D /* v2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913242ACAD65D0087BF9D /* v2.mp4 */; };
-		2C0913302ACAD65D0087BF9D /* v6.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913252ACAD65D0087BF9D /* v6.mp4 */; };
-		2C0913312ACAD65D0087BF9D /* v7.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913262ACAD65D0087BF9D /* v7.mp4 */; };
-		2C0913322ACAD65D0087BF9D /* v0.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913272ACAD65D0087BF9D /* v0.mp4 */; };
-		2C0913332ACAD65D0087BF9D /* v1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913282ACAD65D0087BF9D /* v1.mp4 */; };
-		2C0913342ACAD65D0087BF9D /* v9.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C0913292ACAD65D0087BF9D /* v9.mp4 */; };
-		2C0913352ACAD65D0087BF9D /* v10.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C09132A2ACAD65D0087BF9D /* v10.mp4 */; };
-		2C0913362ACAD65D0087BF9D /* v8.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 2C09132B2ACAD65D0087BF9D /* v8.mp4 */; };
 		46B0F9E0385EA355D24A9B91 /* Pods_TranquiMind.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD24ACB5ABA8610ECA698488 /* Pods_TranquiMind.framework */; };
 		49055AF129A39D50000F67EC /* star.json in Resources */ = {isa = PBXBuildFile; fileRef = 49055AF029A39D50000F67EC /* star.json */; };
 		49055AF329A3A010000F67EC /* space2.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 49055AF229A3A010000F67EC /* space2.mp4 */; };
@@ -51,17 +40,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2C0913212ACAD65D0087BF9D /* v5.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v5.mp4; path = ../../../../Downloads/v5.mp4; sourceTree = "<group>"; };
-		2C0913222ACAD65D0087BF9D /* p5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = p5.mp3; path = ../../../../Downloads/p5.mp3; sourceTree = "<group>"; };
-		2C0913232ACAD65D0087BF9D /* v3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v3.mp4; path = ../../../../Downloads/v3.mp4; sourceTree = "<group>"; };
-		2C0913242ACAD65D0087BF9D /* v2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v2.mp4; path = ../../../../Downloads/v2.mp4; sourceTree = "<group>"; };
-		2C0913252ACAD65D0087BF9D /* v6.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v6.mp4; path = ../../../../Downloads/v6.mp4; sourceTree = "<group>"; };
-		2C0913262ACAD65D0087BF9D /* v7.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v7.mp4; path = ../../../../Downloads/v7.mp4; sourceTree = "<group>"; };
-		2C0913272ACAD65D0087BF9D /* v0.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v0.mp4; path = ../../../../Downloads/v0.mp4; sourceTree = "<group>"; };
-		2C0913282ACAD65D0087BF9D /* v1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v1.mp4; path = ../../../../Downloads/v1.mp4; sourceTree = "<group>"; };
-		2C0913292ACAD65D0087BF9D /* v9.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v9.mp4; path = ../../../../Downloads/v9.mp4; sourceTree = "<group>"; };
-		2C09132A2ACAD65D0087BF9D /* v10.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v10.mp4; path = ../../../../Downloads/v10.mp4; sourceTree = "<group>"; };
-		2C09132B2ACAD65D0087BF9D /* v8.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = v8.mp4; path = ../../../../Downloads/v8.mp4; sourceTree = "<group>"; };
 		2CC53E8E2A367847002E49DA /* Pods-TranquiMind-frameworks.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = "Pods-TranquiMind-frameworks.sh"; path = "Pods/Target Support Files/Pods-TranquiMind/Pods-TranquiMind-frameworks.sh"; sourceTree = "<group>"; };
 		49055AF029A39D50000F67EC /* star.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = star.json; sourceTree = "<group>"; };
 		49055AF229A3A010000F67EC /* space2.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = space2.mp4; sourceTree = "<group>"; };
@@ -114,24 +92,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		2C0913202ACAD6310087BF9D /* Premium */ = {
-			isa = PBXGroup;
-			children = (
-				2C0913222ACAD65D0087BF9D /* p5.mp3 */,
-				2C0913272ACAD65D0087BF9D /* v0.mp4 */,
-				2C0913282ACAD65D0087BF9D /* v1.mp4 */,
-				2C0913242ACAD65D0087BF9D /* v2.mp4 */,
-				2C0913232ACAD65D0087BF9D /* v3.mp4 */,
-				2C0913212ACAD65D0087BF9D /* v5.mp4 */,
-				2C0913252ACAD65D0087BF9D /* v6.mp4 */,
-				2C0913262ACAD65D0087BF9D /* v7.mp4 */,
-				2C09132B2ACAD65D0087BF9D /* v8.mp4 */,
-				2C0913292ACAD65D0087BF9D /* v9.mp4 */,
-				2C09132A2ACAD65D0087BF9D /* v10.mp4 */,
-			);
-			path = Premium;
-			sourceTree = "<group>";
-		};
 		49055AF429A3B6C7000F67EC /* Cells */ = {
 			isa = PBXGroup;
 			children = (
@@ -193,7 +153,6 @@
 		49CA60AC29965E1C001393A5 /* TranquiMind */ = {
 			isa = PBXGroup;
 			children = (
-				2C0913202ACAD6310087BF9D /* Premium */,
 				49D2CE8929AE0D1A00AFA19D /* Fonts */,
 				49055B0829AA1B65000F67EC /* Circles */,
 				49055AFF29A4E217000F67EC /* SpaceMap */,
@@ -317,25 +276,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2C0913342ACAD65D0087BF9D /* v9.mp4 in Resources */,
-				2C0913362ACAD65D0087BF9D /* v8.mp4 in Resources */,
-				2C09132D2ACAD65D0087BF9D /* p5.mp3 in Resources */,
-				2C0913302ACAD65D0087BF9D /* v6.mp4 in Resources */,
 				49CA60BA29965E1D001393A5 /* LaunchScreen.storyboard in Resources */,
 				494D4DB829A394860028984E /* orangeP.json in Resources */,
-				2C0913332ACAD65D0087BF9D /* v1.mp4 in Resources */,
-				2C0913312ACAD65D0087BF9D /* v7.mp4 in Resources */,
 				49055AF129A39D50000F67EC /* star.json in Resources */,
 				49CA60B729965E1D001393A5 /* Assets.xcassets in Resources */,
-				2C09132F2ACAD65D0087BF9D /* v2.mp4 in Resources */,
 				49055AF329A3A010000F67EC /* space2.mp4 in Resources */,
-				2C09132E2ACAD65D0087BF9D /* v3.mp4 in Resources */,
 				49D2CE8829AA4DBC00AFA19D /* sky.mp4 in Resources */,
 				49D2CE8B29AE0D2E00AFA19D /* TiltNeon-Regular-VariableFont_XROT,YROT.ttf in Resources */,
 				49055B1229AA2937000F67EC /* man.json in Resources */,
-				2C0913352ACAD65D0087BF9D /* v10.mp4 in Resources */,
-				2C0913322ACAD65D0087BF9D /* v0.mp4 in Resources */,
-				2C09132C2ACAD65D0087BF9D /* v5.mp4 in Resources */,
 				494D4DB629A392240028984E /* blueP.json in Resources */,
 				49CA60B529965E1C001393A5 /* Main.storyboard in Resources */,
 				494D4DBB29A397B50028984E /* eye.json in Resources */,

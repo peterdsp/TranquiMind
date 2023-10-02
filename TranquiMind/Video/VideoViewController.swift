@@ -47,16 +47,16 @@ class VideoViewController: UIViewController {
     
     var playerLayer: AVPlayerLayer!
     var videoToPlay = " "
-    var videoLinks = ["",
-                      "",
-                      "",
-                      "",
-                      "",
-                      "",
-                      "",
-                      "",
-                      "",
-                      ""]
+    var videoLinks = ["https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v0.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v7.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v2.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v3.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v5.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v6.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v8.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v1.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v9.mp4",
+                      "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/v10.mp4"]
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -86,7 +86,7 @@ class VideoViewController: UIViewController {
         //Timer is Invalid when the Internet is no Connected
         
         playerState = 1
-        selectedSoundFileName = " "
+        selectedSoundFileName = "https://github.com/peterdsp/Diplomatic.Thesis.Premium/raw/main/p5.mp3"
         
         
         let url = URL(string: selectedSoundFileName)
