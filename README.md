@@ -1,4 +1,4 @@
-# TranquiMind
+# TranquiMind | iOS App | Awarded at CoNeCo 2024
 Design and Development of a Human-Centered Mobile Application for Managing Stress and Anxiety
 
 # iOS Anti-Stress and Meditation App
